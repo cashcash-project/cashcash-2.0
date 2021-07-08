@@ -52,7 +52,7 @@ Check out the source code in the following directory hierarchy.
     git clone https://github.com/cashcash-project/gitian.sigs.git
     git clone https://github.com/cashcash-project/cashcash-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/cashcash-project/cashcash.git
+    git clone https://github.com/cashcash-project/cashcash-2.0.git
 
 ### cashcash maintainers/release engineers, suggestion for writing release notes
 

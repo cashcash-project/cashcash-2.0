@@ -33,7 +33,7 @@ packages:
 - "ca-certificates"
 - "python3"
 remotes:
-- "url": "https://github.com/cashcash-project/cashcash.git"
+- "url": "https://github.com/cashcash-project/cashcash-2.0.git"
   "dir": "cashcash"
 files: []
 script: |

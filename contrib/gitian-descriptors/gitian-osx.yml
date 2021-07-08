@@ -29,7 +29,7 @@ packages:
 - "python3-setuptools"
 - "fonts-tuffy"
 remotes:
-- "url": "https://github.com/cashcash-project/cashcash.git"
+- "url": "https://github.com/cashcash-project/cashcash-2.0.git"
   "dir": "cashcash"
 files:
 - "MacOSX10.11.sdk.tar.gz"
