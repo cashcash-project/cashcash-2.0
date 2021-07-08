@@ -10,7 +10,7 @@
 #include "consensus/validation.h"
 #include "pow.h"
 #include "random.h"
-#include "test/test_pivx.h"
+#include "test/test_cashcash.h"
 #include "validation.h"
 #include "validationinterface.h"
 

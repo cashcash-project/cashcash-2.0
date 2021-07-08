@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 # Copyright (c) 2017 The Zcash developers
-# Copyright (c) 2020 The PIVX developers
+# Copyright (c) 2020 The cashcash developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or https://www.opensource.org/licenses/mit-license.php .
 
 from decimal import Decimal
-from test_framework.test_framework import PivxTestFramework
+from test_framework.test_framework import cashcashTestFramework
 from test_framework.util import *
 from functools import reduce
 
-class SaplingkeyImportExportTest (PivxTestFramework):
+class SaplingkeyImportExportTest (cashcashTestFramework):
 
     def set_test_params(self):
         self.num_nodes = 5

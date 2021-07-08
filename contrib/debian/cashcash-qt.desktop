@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=cashcash Core
+Comment=cashcash P2P Cryptocurrency
+Comment[fr]=cashcash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=cashcash, eşten eşe kriptografik sanal para birimi
+Exec=cashcash-qt %u
+Terminal=false
+Type=Application
+Icon=cashcash128
+MimeType=x-scheme-handler/cashcash;
+Categories=Office;Finance;
+StartupWMClass=cashcash-qt

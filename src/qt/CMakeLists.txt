@@ -2,7 +2,7 @@ CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
 
 set(QT_MINIMUM_VERSION 5.5.1)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
-set(CMAKE_AUTOUIC_SEARCH_PATHS ${CMAKE_CURRENT_SOURCE_DIR}/forms ${CMAKE_CURRENT_SOURCE_DIR}/pivx/forms ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/forms)
+set(CMAKE_AUTOUIC_SEARCH_PATHS ${CMAKE_CURRENT_SOURCE_DIR}/forms ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/forms ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/forms)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
@@ -111,81 +111,81 @@ SET(QT_SOURCES
         ${CMAKE_CURRENT_SOURCE_DIR}/transactiontablemodel.cpp
         ${CMAKE_CURRENT_SOURCE_DIR}/walletmodel.cpp
         ${CMAKE_CURRENT_SOURCE_DIR}/walletmodeltransaction.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/pivxgui.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/loadingdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/pwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/focuseddialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/guitransactionsutils.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/snackbar.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/navmenuwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/lockunlock.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/receivedialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/furabstractlistitemdelegate.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/txviewholder.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/qtutils.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/balancebubble.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/expandablebutton.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/topbar.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/txrow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/addressfilterproxymodel.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/dashboardwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/addresslabelrow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/contactdropdownrow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/contactsdropdown.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/optionbutton.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/mninfodialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/coldstakingmodel.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/mnmodel.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/masternodewizarddialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/mnrow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/masternodeswidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/sendchangeaddressdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/sendconfirmdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/sendcustomfeedialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/sendmemodialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/sendmultirow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/send.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/addnewaddressdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/addnewcontactdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/requestdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/receivewidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/myaddressrow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/csrow.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/addressholder.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/tooltipmenu.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/addresseswidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/defaultdialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/coldstakingwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsbackupwallet.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsbittoolwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsconsolewidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsdisplayoptionswidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsfaqwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsinformationwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsmainoptionswidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsmultisenddialog.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsmultisendwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingssignmessagewidgets.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingswalletoptionswidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingswalletrepairwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsexportcsv.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingswidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/welcomecontentwidget.cpp
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/splash.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/cashcashgui.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/loadingdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/pwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/focuseddialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/guitransactionsutils.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/snackbar.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/navmenuwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/lockunlock.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/receivedialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/furabstractlistitemdelegate.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/txviewholder.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/qtutils.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/balancebubble.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/expandablebutton.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/topbar.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/txrow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/addressfilterproxymodel.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/dashboardwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/addresslabelrow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/contactdropdownrow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/contactsdropdown.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/optionbutton.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/mninfodialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/coldstakingmodel.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/mnmodel.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/masternodewizarddialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/mnrow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/masternodeswidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/sendchangeaddressdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/sendconfirmdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/sendcustomfeedialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/sendmemodialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/sendmultirow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/send.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/addnewaddressdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/addnewcontactdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/requestdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/receivewidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/myaddressrow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/csrow.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/addressholder.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/tooltipmenu.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/addresseswidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/defaultdialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/coldstakingwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsbackupwallet.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsbittoolwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsconsolewidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsdisplayoptionswidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsfaqwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsinformationwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsmainoptionswidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsmultisenddialog.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsmultisendwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingssignmessagewidgets.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingswalletoptionswidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingswalletrepairwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsexportcsv.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingswidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/welcomecontentwidget.cpp
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/splash.cpp
         )
 
 # Workaround until the old rpcconsole UI window is fully removed
-set_property(SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings/settingsconsolewidget.cpp PROPERTY SKIP_AUTOMOC ON)
+set_property(SOURCE ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings/settingsconsolewidget.cpp PROPERTY SKIP_AUTOMOC ON)
 execute_process(
         COMMAND ${MOC_BIN} -o moc_settingsconsolewidget.cpp settingsconsolewidget.h
-        WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings
+        WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings
 )
 
 execute_process(
         COMMAND ${MOC_BIN} -o moc_pfborderimage.cpp pfborderimage.h
-        WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/pivx
+        WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/cashcash
 )
-list(APPEND QT_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/pivx/moc_pfborderimage.cpp)
+list(APPEND QT_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/moc_pfborderimage.cpp)
 
 if (${CMAKE_SYSTEM_NAME} MATCHES "Darwin")
     list(APPEND QT_SOURCES ${CMAKE_CURRENT_SOURCE_DIR}/macdockiconhandler.mm)
@@ -198,8 +198,8 @@ target_include_directories(qt_stuff PUBLIC ${CMAKE_SOURCE_DIR}/src
         ${CMAKE_SOURCE_DIR}/src/univalue/include
         ${CMAKE_SOURCE_DIR}/src/secp256k1/include
         ${CMAKE_CURRENT_SOURCE_DIR}
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx
-        ${CMAKE_CURRENT_SOURCE_DIR}/pivx/settings
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash
+        ${CMAKE_CURRENT_SOURCE_DIR}/cashcash/settings
         ${OPENSSL_INCLUDE_DIR}
         ${BerkeleyDB_INCLUDE_DIRS}
         )
@@ -213,13 +213,13 @@ set_source_files_properties(${QT_TRANSLATIONS_FILES} PROPERTIES OUTPUT_LOCATION 
 QT5_ADD_TRANSLATION(QM ${QT_TRANSLATIONS_FILES})
 add_custom_target(translations_target ALL DEPENDS ${QM})
 
-QT5_ADD_RESOURCES(QRC_RESOURCE pivx.qrc)
-QT5_ADD_RESOURCES(QRC_LOCALE_RESOURCE pivx_locale.qrc)
+QT5_ADD_RESOURCES(QRC_RESOURCE cashcash.qrc)
+QT5_ADD_RESOURCES(QRC_LOCALE_RESOURCE cashcash_locale.qrc)
 
-add_executable(pivx-qt pivx.cpp ${QM} ${QRC_RESOURCE} ${QRC_LOCALE_RESOURCE})
-add_dependencies(pivx-qt translations_target libunivalue libsecp256k1 libzcashrust leveldb crc32c)
-target_include_directories(pivx-qt PUBLIC ${ENDIAN_INCLUDES})
-target_link_libraries(pivx-qt
+add_executable(cashcash-qt cashcash.cpp ${QM} ${QRC_RESOURCE} ${QRC_LOCALE_RESOURCE})
+add_dependencies(cashcash-qt translations_target libunivalue libsecp256k1 libzcashrust leveldb crc32c)
+target_include_directories(cashcash-qt PUBLIC ${ENDIAN_INCLUDES})
+target_link_libraries(cashcash-qt
         qt_stuff
         univalue
         SERVER_A WALLET_A COMMON_A ZEROCOIN_A UTIL_A SAPLING_A BITCOIN_CRYPTO_A CLI_A
@@ -229,30 +229,30 @@ target_link_libraries(pivx-qt
         -ldl pthread
         )
 if (${CMAKE_SYSTEM_NAME} MATCHES "Darwin")
-    target_link_libraries(pivx-qt "-framework Cocoa")
+    target_link_libraries(cashcash-qt "-framework Cocoa")
 endif()
 if(GMP_FOUND)
-    target_link_libraries(pivx-qt ${GMP_LIBRARY})
-    target_include_directories(pivx-qt PUBLIC ${GMP_INCLUDE_DIR})
+    target_link_libraries(cashcash-qt ${GMP_LIBRARY})
+    target_include_directories(cashcash-qt PUBLIC ${GMP_INCLUDE_DIR})
 endif()
 if(ZMQ_FOUND)
-    target_link_libraries(pivx-qt ZMQ_A ${ZMQ_LIB})
-    target_include_directories(pivx-qt PUBLIC ${ZMQ_INCLUDE_DIR})
+    target_link_libraries(cashcash-qt ZMQ_A ${ZMQ_LIB})
+    target_include_directories(cashcash-qt PUBLIC ${ZMQ_INCLUDE_DIR})
 endif()
 if (QRCODE_FOUND)
-    target_link_libraries(pivx-qt ${QRCODE_LIB})
-    target_include_directories(pivx-qt PUBLIC ${QRCODE_INCLUDE_DIR})
+    target_link_libraries(cashcash-qt ${QRCODE_LIB})
+    target_include_directories(cashcash-qt PUBLIC ${QRCODE_INCLUDE_DIR})
 endif()
 if(MINIUPNP_FOUND)
-    target_compile_definitions(pivx-qt PUBLIC "-DSTATICLIB -DMINIUPNP_STATICLIB")
-    target_link_libraries(pivx-qt ${MINIUPNP_LIBRARY})
-    target_include_directories(pivx-qt PUBLIC ${MINIUPNP_INCLUDE_DIR})
+    target_compile_definitions(cashcash-qt PUBLIC "-DSTATICLIB -DMINIUPNP_STATICLIB")
+    target_link_libraries(cashcash-qt ${MINIUPNP_LIBRARY})
+    target_include_directories(cashcash-qt PUBLIC ${MINIUPNP_INCLUDE_DIR})
 endif()
 
-target_link_libraries(pivx-qt Qt5::Gui Qt5::Core Qt5::Widgets Qt5::Network Qt5::Svg ${QT_LIBRARIES})
+target_link_libraries(cashcash-qt Qt5::Gui Qt5::Core Qt5::Widgets Qt5::Network Qt5::Svg ${QT_LIBRARIES})
 if (Qt5DBus_FOUND)
-    target_link_libraries(pivx-qt Qt5::DBus ${QT_LIBRARIES})
+    target_link_libraries(cashcash-qt Qt5::DBus ${QT_LIBRARIES})
 endif()
 if (Qt5Charts_FOUND)
-    target_link_libraries(pivx-qt Qt5::Charts ${QT_LIBRARIES})
+    target_link_libraries(cashcash-qt Qt5::Charts ${QT_LIBRARIES})
 endif()

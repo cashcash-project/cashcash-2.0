@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/cashcash_de.qm</file>
+        <file alias="en">locale/cashcash_en.qm</file>
+        <file alias="en_US">locale/cashcash_en_US.qm</file>
+        <file alias="es">locale/cashcash_es.qm</file>
+        <file alias="es_ES">locale/cashcash_es_ES.qm</file>
+        <file alias="fr_FR">locale/cashcash_fr_FR.qm</file>
+        <file alias="hr_HR">locale/cashcash_hr_HR.qm</file>
+        <file alias="it">locale/cashcash_it.qm</file>
+        <file alias="ko_KR">locale/cashcash_ko_KR.qm</file>
+        <file alias="nl">locale/cashcash_nl.qm</file>
+        <file alias="pl">locale/cashcash_pl.qm</file>
+        <file alias="ru">locale/cashcash_ru.qm</file>
+        <file alias="zh_CN">locale/cashcash_zh_CN.qm</file>
+    </qresource>
+</RCC>

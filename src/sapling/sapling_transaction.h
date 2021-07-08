@@ -1,10 +1,10 @@
 // Copyright (c) 2016-2020 The ZCash developers
-// Copyright (c) 2020 The PIVX developers
+// Copyright (c) 2020 The cashcash developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef PIVX_SAPLING_TRANSACTION_H
-#define PIVX_SAPLING_TRANSACTION_H
+#ifndef cashcash_SAPLING_TRANSACTION_H
+#define cashcash_SAPLING_TRANSACTION_H
 
 #include "serialize.h"
 #include "streams.h"
@@ -160,4 +160,4 @@ public:
 };
 
 
-#endif //PIVX_SAPLING_TRANSACTION_H
+#endif //cashcash_SAPLING_TRANSACTION_H

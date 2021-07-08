@@ -1,9 +1,9 @@
-// Copyright (c) 2018 The PIVX developers
+// Copyright (c) 2018 The cashcash developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef PIVX_INVALID_H
-#define PIVX_INVALID_H
+#ifndef cashcash_INVALID_H
+#define cashcash_INVALID_H
 
 #include <set>
 #include <string>
@@ -21,4 +21,4 @@ namespace invalid_out
     bool LoadOutpoints();
 }
 
-#endif //PIVX_INVALID_H
+#endif //cashcash_INVALID_H
