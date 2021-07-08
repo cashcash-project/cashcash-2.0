@@ -1,4 +1,4 @@
-cashcash Core version v5.2.0 is now available from:  <https://github.com/cashcash-project/cashcash/releases>
+CashCash Core version v5.2.0 is now available from:  <https://github.com/cashcash-project/cashcash/releases>
 
 This is a new major version release, including various bug fixes and visual improvements.
 
@@ -7,7 +7,7 @@ Please report bugs using the issue tracker at github: <https://github.com/cashca
 Mandatory Update
 ==============
 
-cashcash Core v5.2.0 is a mandatory update for all users. This release contains a protocol upgrade (to `70922`), new consensus rules and improvements that are not backwards compatible with older versions. Users will need to update their clients before enforcement of this update goes into effect.
+CashCash Core v5.2.0 is a mandatory update for all users. This release contains a protocol upgrade (to `70922`), new consensus rules and improvements that are not backwards compatible with older versions. Users will need to update their clients before enforcement of this update goes into effect.
 
 Update enforcement is currently scheduled to go into effect at the following block height:
 ```
@@ -25,7 +25,7 @@ If you are running an older version, shut it down. Wait until it has completely 
 Sapling Parameters
 ==================
 
-In order to run, cashcash Core now requires two files, `sapling-output.params` and `sapling-spend.params` (with total size ~50 MB), to be saved in a specific location.
+In order to run, CashCash Core now requires two files, `sapling-output.params` and `sapling-spend.params` (with total size ~50 MB), to be saved in a specific location.
 
 For the following packages, no action is required by the user:
 - macOS release `dmg` binaries will use the params that are bundled into the .app bundle.
@@ -34,15 +34,15 @@ For the following packages, no action is required by the user:
 
 For the other packages, the user must save the param files in the proper location, before being able to run cashcash v5.2.0:
 - macOS/Linux `tar.gz` tarballs include a bash script (`install-params.sh`) to copy the parameters in the appropriate location.
-- Windows `.zip` users need to manually copy the files from the `share/cashcash` folder to the `%APPDATA%\cashcashParams` directory.
+- Windows `.zip` users need to manually copy the files from the `share/cashcash` folder to the `%APPDATA%\cashcash` directory.
 - self compilers can run the script from the repository sources (`params/install-params.sh`), or copy the files directly from the `params` subdirectory.
 
 Compatibility
 ==============
 
-cashcash Core is extensively tested on multiple operating systems using the Linux kernel, macOS 10.12+, and Windows 7 and later.
+CashCash Core is extensively tested on multiple operating systems using the Linux kernel, macOS 10.12+, and Windows 7 and later.
 
-cashcash Core should also work on most other Unix-like systems but is not frequently tested on them.
+CashCash Core should also work on most other Unix-like systems but is not frequently tested on them.
 
 v5.2.0 Change log
 ==============

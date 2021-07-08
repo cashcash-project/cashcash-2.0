@@ -1,13 +1,13 @@
-cashcash Core
+CashCash Core
 =============
 
 Setup
 ---------------------
-[cashcash Core](http://cashcash.digital/wallet) is the original cashcash client and it builds the backbone of the network. However, it downloads and stores the entire history of cashcash transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[CashCash Core](http://cashcash.digital/wallet) is the original cashcash client and it builds the backbone of the network. However, it downloads and stores the entire history of cashcash transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run cashcash Core on your native platform.
+The following are some helpful notes on how to run CashCash Core on your native platform.
 
 ### Unix
 
@@ -16,7 +16,7 @@ Unpack the files into a directory and run:
 - `bin/cashcash-qt` (GUI) or
 - `bin/cashcashd` (headless)
 
-If this is the first time running cashcash Core (since v5.0.0), you'll need to install the sapling params by running the included `install-params.sh` script, which copies the two params files to `$HOME/.cashcash-params`
+If this is the first time running CashCash Core (since v5.0.0), you'll need to install the sapling params by running the included `install-params.sh` script, which copies the two params files to `$HOME/.cashcash-params`
 
 ### Windows
 
@@ -35,7 +35,7 @@ for help and more information.
 
 Building
 ---------------------
-The following are developer notes on how to build cashcash Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build CashCash Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)

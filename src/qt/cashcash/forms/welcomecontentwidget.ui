@@ -937,7 +937,7 @@
                      </property>
                      <property name="text">
                       <string>Welcome to
-cashcash Core Wallet</string>
+CashCash Core Wallet</string>
                      </property>
                      <property name="alignment">
                       <set>Qt::AlignCenter</set>

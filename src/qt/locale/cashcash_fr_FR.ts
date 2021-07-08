@@ -1130,16 +1130,16 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
         <translation>version</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About cashcash Core</source>
-        <translation>A propos de cashcash Core</translation>
+        <source>About CashCash Core</source>
+        <translation>A propos de CashCash Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1193,16 +1193,16 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
         <translation>Bienvenu</translation>
     </message>
     <message>
-        <source>Welcome to cashcash Core.</source>
-        <translation>Bienvenue à cashcash Core</translation>
+        <source>Welcome to CashCash Core.</source>
+        <translation>Bienvenue à CashCash Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where cashcash Core will store its data.</source>
-        <translation>Comme c'est la première fois que le programme est lancé, vous pouvez choisir où cashcash Core va stocker ses données.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <translation>Comme c'est la première fois que le programme est lancé, vous pouvez choisir où CashCash Core va stocker ses données.</translation>
     </message>
     <message>
-        <source>cashcash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>cashcash Core téléchargera et stockera une copie de la blockchain cashcash. Au moins %1 Go de données seront stockées dans ce répertoire, qui va augmenter au fil du temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
+        <source>CashCash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash Core téléchargera et stockera une copie de la blockchain cashcash. Au moins %1 Go de données seront stockées dans ce répertoire, qui va augmenter au fil du temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1221,8 +1221,8 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
         <translation>OK</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2048,8 +2048,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
 <context>
     <name>cashcashGUI</name>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2076,8 +2076,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Quitter l'application</translation>
     </message>
     <message>
-        <source>cashcash Core client</source>
-        <translation>cashcash Core client</translation>
+        <source>CashCash Core client</source>
+        <translation>CashCash Core client</translation>
     </message>
     <message>
         <source>Alert!</source>
@@ -2286,11 +2286,11 @@ Adresse : %4
     </message>
     <message>
         <source>A fatal error occurred. cashcash can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale s'est produite. cashcash Core ne peut plus poursuivre en toute sécurité et va quitter.</translation>
+        <translation>Une erreur fatale s'est produite. CashCash Core ne peut plus poursuivre en toute sécurité et va quitter.</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -4812,8 +4812,8 @@ Confirmez-vous ?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>cashcash Core is shutting down...</source>
-        <translation>cashcash Core est en cours de fermeture...</translation>
+        <source>CashCash Core is shutting down...</source>
+        <translation>CashCash Core est en cours de fermeture...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4842,8 +4842,8 @@ Confirmez-vous ?
         <translation>Chargement...</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
 </context>
 <context>
@@ -5461,9 +5461,9 @@ Select fewer inputs with coin control.</source>
     </message>
     <message>
         <source>Welcome to
-cashcash Core Wallet</source>
+CashCash Core Wallet</source>
         <translation>Bienvenu dans le
-Portefeuille cashcash Core</translation>
+Portefeuille CashCash Core</translation>
     </message>
     <message>
         <source>cashcash is the world’s most innovative Proof of Stake blockchain based technology. Developed by a team of highly experienced developers and cryptographers.</source>
@@ -5645,8 +5645,8 @@ Portefeuille cashcash Core</translation>
         <translation>La longueur totale de la chaîne dans la version réseau (%i) dépasse la longueur maximale (%i). Réduisez le nombre ou la taille des commentaires de l'Agent Utilisateur</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. cashcash Core is probably already running.</source>
-        <translation>Impossible de se lier à %s depuis cet ordinateur. cashcash Core est probablement déjà en cours d'exécution.</translation>
+        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <translation>Impossible de se lier à %s depuis cet ordinateur. CashCash Core est probablement déjà en cours d'exécution.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5661,8 +5661,8 @@ Portefeuille cashcash Core</translation>
         <translation>Attention: -paytxfee est réglé très haut! Ce sont les frais de transaction que vous paierez si vous envoyez une transaction.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier que la date et l'heure de votre ordinateur sont correctes! Si votre horloge est incorrecte, cashcash Core ne fonctionnera pas correctement.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier que la date et l'heure de votre ordinateur sont correctes! Si votre horloge est incorrecte, CashCash Core ne fonctionnera pas correctement.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5670,7 +5670,7 @@ Portefeuille cashcash Core</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>Attention: Il semble que nous soyons en désaccord avec nos pairs sur le réseau! Cela signifie que vous pourriez avoir besoin de mettre à jour votre cashcash Core, ou que les autres noeuds aient besoin de se mettre à jour de leur côté.</translation>
+        <translation>Attention: Il semble que nous soyons en désaccord avec nos pairs sur le réseau! Cela signifie que vous pourriez avoir besoin de mettre à jour votre CashCash Core, ou que les autres noeuds aient besoin de se mettre à jour de leur côté.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -5733,8 +5733,8 @@ Portefeuille cashcash Core</translation>
         <translation>Copyright (C) 2014-%i Les développeurs de DASH Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The cashcash Core Developers</source>
-        <translation>Copyright (C) 2015-%i Les développeurs de cashcash Core</translation>
+        <source>Copyright (C) 2015-%i The CashCash Core Developers</source>
+        <translation>Copyright (C) 2015-%i Les développeurs de CashCash Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5973,8 +5973,8 @@ SVP éxécutez 'sapling-fetch-params' ou './util/fetch-params.sh' et redémarrez
         <translation>Erreur de chargement %s: Portefeuille corrompu</translation>
     </message>
     <message>
-        <source>Error loading %s: Wallet requires newer version of cashcash Core</source>
-        <translation>Erreur de chargement %s: Le portefeuille nécessite une version plus récente du cashcash core</translation>
+        <source>Error loading %s: Wallet requires newer version of CashCash Core</source>
+        <translation>Erreur de chargement %s: Le portefeuille nécessite une version plus récente du CashCash Core</translation>
     </message>
     <message>
         <source>Error loading %s
@@ -6171,8 +6171,8 @@ SVP éxécutez 'sapling-fetch-params' ou './util/fetch-params.sh' et redémarrez
         <translation>Montant minimum positif (en PIV) autorisé par l'interface graphique et le RPC pour la division des mises du stake (par défaut: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>SVP vérifiez que la date et l'heure de votre ordinateur sont correctes! Si votre horloge est incorrecte, cashcash Core ne fonctionnera pas correctement.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>SVP vérifiez que la date et l'heure de votre ordinateur sont correctes! Si votre horloge est incorrecte, CashCash Core ne fonctionnera pas correctement.</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect/-noconnect)</source>
@@ -6529,8 +6529,8 @@ SVP éxécutez 'sapling-fetch-params' ou './util/fetch-params.sh' et redémarrez
         <translation>Vérification du portefeuille...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart cashcash Core to complete</source>
-        <translation>Le portefeuille doit être réécrit: redémarrez cashcash Core pour terminer</translation>
+        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <translation>Le portefeuille doit être réécrit: redémarrez CashCash Core pour terminer</translation>
     </message>
     <message>
         <source>Wallet options:</source>

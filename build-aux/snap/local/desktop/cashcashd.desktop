@@ -2,7 +2,7 @@
 
 [Desktop Entry]
 Encoding=UTF-8
-Name=cashcash Core Daemon SNAP
+Name=CashCash Core Daemon SNAP
 Comment=main
 GenericName=cashcash Digital Currency Daemon Client main network
 Exec=cashcash-core.daemon %u

@@ -2,8 +2,8 @@
 
 [Desktop Entry]
 Encoding=UTF-8
-Name=cashcash Core
-Comment=cashcash Core QT main network
+Name=CashCash Core
+Comment=CashCash Core QT main network
 GenericName=cashcash Digital Currency QT client main network
 Exec=cashcash-core.qt %u
 Terminal=false

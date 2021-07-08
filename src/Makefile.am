@@ -143,7 +143,7 @@ LIBSAPLING_H = \
   sapling/sapling_operation.h
 
 .PHONY: FORCE cargo-build check-symbols check-security
-# cashcash core #
+# CashCash Core #
 BITCOIN_CORE_H = \
   activemasternode.h \
   addrdb.h \

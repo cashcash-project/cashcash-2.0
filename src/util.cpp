@@ -380,13 +380,13 @@ static RecursiveMutex csPathCached;
 static fs::path ZC_GetBaseParamsDir()
 {
     // Copied from GetDefaultDataDir and adapter for zcash params.
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\cashcashParams
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\cashcashParams
-    // Mac: ~/Library/Application Support/cashcashParams
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\cashcash
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\cashcash
+    // Mac: ~/Library/Application Support/cashcash
     // Unix: ~/.cashcash-params
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "cashcashParams";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "cashcash";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -398,7 +398,7 @@ static fs::path ZC_GetBaseParamsDir()
     // Mac
     pathRet /= "Library/Application Support";
     TryCreateDirectory(pathRet);
-    return pathRet / "cashcashParams";
+    return pathRet / "cashcash";
 #else
     // Unix
     return pathRet / ".cashcash-params";

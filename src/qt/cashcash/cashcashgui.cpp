@@ -66,7 +66,7 @@ cashcashGUI::cashcashGUI(const NetworkStyle* networkStyle, QWidget* parent) :
 
     QString windowTitle = QString::fromStdString(gArgs.GetArg("-windowtitle", ""));
     if (windowTitle.isEmpty()) {
-        windowTitle = tr("cashcash Core") + " - ";
+        windowTitle = tr("CashCash Core") + " - ";
         windowTitle += ((enableWallet) ? tr("Wallet") : tr("Node"));
     }
     windowTitle += " " + networkStyle->getTitleAddText();
@@ -210,7 +210,7 @@ void cashcashGUI::createTrayIcon(const NetworkStyle* networkStyle)
 {
 #ifndef Q_OS_MAC
     trayIcon = new QSystemTrayIcon(this);
-    QString toolTip = tr("cashcash Core client") + " " + networkStyle->getTitleAddText();
+    QString toolTip = tr("CashCash Core client") + " " + networkStyle->getTitleAddText();
     trayIcon->setToolTip(toolTip);
     trayIcon->setIcon(networkStyle->getAppIcon());
     trayIcon->hide();
@@ -374,7 +374,7 @@ void cashcashGUI::messageInfo(const QString& text)
 
 void cashcashGUI::message(const QString& title, const QString& message, unsigned int style, bool* ret)
 {
-    QString strTitle =  tr("cashcash Core"); // default title
+    QString strTitle =  tr("CashCash Core"); // default title
     // Default to information icon
     int nNotifyIcon = Notificator::Information;
 
@@ -443,7 +443,7 @@ bool cashcashGUI::openStandardDialog(QString title, QString body, QString okBtn,
     } else {
         dialog = new DefaultDialog();
         dialog->setText(title, body, okBtn);
-        dialog->setWindowTitle(tr("cashcash Core"));
+        dialog->setWindowTitle(tr("CashCash Core"));
         dialog->adjustSize();
         dialog->raise();
         dialog->exec();

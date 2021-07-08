@@ -28,7 +28,7 @@ Splash::Splash(const NetworkStyle* networkStyle) :
     QWidget(nullptr), ui(new Ui::Splash)
 {
     ui->setupUi(this);
-    QString titleText = tr("cashcash Core");
+    QString titleText = tr("CashCash Core");
     QString titleAddText = networkStyle->getTitleAddText();
     setWindowTitle(titleText + " " + titleAddText);
 

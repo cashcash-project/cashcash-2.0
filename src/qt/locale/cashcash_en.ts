@@ -1406,7 +1406,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+0"/>
-        <source>cashcash Core</source>
+        <source>CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1417,7 +1417,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+6"/>
-        <source>About cashcash Core</source>
+        <source>About CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1485,17 +1485,17 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location line="+90"/>
-        <source>Welcome to cashcash Core.</source>
+        <source>Welcome to CashCash Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+35"/>
-        <source>As this is the first time the program is launched, you can choose where cashcash Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>cashcash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>CashCash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1520,7 +1520,7 @@ It will start automatically as soon as the wallet has enough confirmations on an
     </message>
     <message>
         <location filename="../intro.cpp" line="+100"/>
-        <source>cashcash Core</source>
+        <source>CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2513,7 +2513,7 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</source
         <location filename="../cashcash/cashcashgui.cpp" line="+69"/>
         <location line="+308"/>
         <location line="+69"/>
-        <source>cashcash Core</source>
+        <source>CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2548,7 +2548,7 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</source
     </message>
     <message>
         <location line="+39"/>
-        <source>cashcash Core client</source>
+        <source>CashCash Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2823,7 +2823,7 @@ Address: %4
         <location line="+7"/>
         <location line="+15"/>
         <location line="+19"/>
-        <source>cashcash Core</source>
+        <source>CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5090,7 +5090,7 @@ There was an error trying to save the address list to %1. Please try again.</sou
     </message>
     <message>
         <location line="+5"/>
-        <source>A masternode is a computer running a full node cashcash core wallet with a requirement of 10,000 PIV secured collateral to provide extra services to the network and in return, receive a portion of the block reward regularly. These services include:</source>
+        <source>A masternode is a computer running a full node CashCash Core wallet with a requirement of 10,000 PIV secured collateral to provide extra services to the network and in return, receive a portion of the block reward regularly. These services include:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6126,7 +6126,7 @@ Are you sure?
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+71"/>
-        <source>cashcash Core is shutting down...</source>
+        <source>CashCash Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6162,7 +6162,7 @@ Are you sure?
     </message>
     <message>
         <location filename="../cashcash/splash.cpp" line="+31"/>
-        <source>cashcash Core</source>
+        <source>CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6970,7 +6970,7 @@ Select fewer inputs with coin control.</source>
     <message>
         <location line="+89"/>
         <source>Welcome to
-cashcash Core Wallet</source>
+CashCash Core Wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7198,7 +7198,7 @@ cashcash Core Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. cashcash Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7218,7 +7218,7 @@ cashcash Core Wallet</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7308,7 +7308,7 @@ cashcash Core Wallet</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The cashcash Core Developers</source>
+        <source>Copyright (C) 2015-%i The CashCash Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7615,7 +7615,7 @@ Please run &apos;sapling-fetch-params&apos; or &apos;./util/fetch-params.sh&apos
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading %s: Wallet requires newer version of cashcash Core</source>
+        <source>Error loading %s: Wallet requires newer version of CashCash Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7881,7 +7881,7 @@ Please run &apos;sapling-fetch-params&apos; or &apos;./util/fetch-params.sh&apos
     </message>
     <message>
         <location line="+7"/>
-        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
+        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8362,7 +8362,7 @@ Please run &apos;sapling-fetch-params&apos; or &apos;./util/fetch-params.sh&apos
     </message>
     <message>
         <location line="+2"/>
-        <source>Wallet needed to be rewritten: restart cashcash Core to complete</source>
+        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

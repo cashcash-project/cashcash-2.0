@@ -1130,16 +1130,16 @@ Staking će se automatski pokrenuti čim novčanik dobije dovoljno potvrda o nep
         <translation>verzija</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About cashcash Core</source>
-        <translation>O cashcash Core-u</translation>
+        <source>About CashCash Core</source>
+        <translation>O CashCash Core-u</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1193,16 +1193,16 @@ Staking će se automatski pokrenuti čim novčanik dobije dovoljno potvrda o nep
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to cashcash Core.</source>
-        <translation>Dobrodošli u cashcash Core.</translation>
+        <source>Welcome to CashCash Core.</source>
+        <translation>Dobrodošli u CashCash Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where cashcash Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će cashcash Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će CashCash Core pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>cashcash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>cashcash Core preuzima i pohranjuje kopiju cashcash blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>CashCash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash Core preuzima i pohranjuje kopiju cashcash blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1221,8 +1221,8 @@ Staking će se automatski pokrenuti čim novčanik dobije dovoljno potvrda o nep
         <translation>OK</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2049,8 +2049,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
 <context>
     <name>cashcashGUI</name>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2077,7 +2077,7 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Napusti aplikaciju</translation>
     </message>
     <message>
-        <source>cashcash Core client</source>
+        <source>CashCash Core client</source>
         <translation>CashCash Core Klijent</translation>
     </message>
     <message>
@@ -2290,8 +2290,8 @@ Adresa: %4
         <translation>Dogodila se fatalna pogreška. cashcash ne može sigurno nastaviti i izaći će.</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -4807,8 +4807,8 @@ Jeste li sigurni?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>cashcash Core is shutting down...</source>
-        <translation>cashcash Core se zatvara...</translation>
+        <source>CashCash Core is shutting down...</source>
+        <translation>CashCash Core se zatvara...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4837,8 +4837,8 @@ Jeste li sigurni?
         <translation>Učitavanje...</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
 </context>
 <context>
@@ -5456,7 +5456,7 @@ Odaberite manje ulaza pomoću Upravljanja novčićima.</translation>
     </message>
     <message>
         <source>Welcome to
-cashcash Core Wallet</source>
+CashCash Core Wallet</source>
         <translation>Dobrodošli u
 cashcash temeljni novčanik</translation>
     </message>
@@ -5640,8 +5640,8 @@ cashcash temeljni novčanik</translation>
         <translation>Ukupna duljina teksta mrežne verzije (%i) prelazi maksimalnu duljinu (%i). Smanjite broj ili veličinu uacommentsa.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. cashcash Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. cashcash Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. CashCash Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5656,8 +5656,8 @@ cashcash temeljni novčanik</translation>
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, cashcash Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, CashCash Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5728,8 +5728,8 @@ cashcash temeljni novčanik</translation>
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The cashcash Core Developers</source>
-        <translation>Autorska prava (C) 2015-%i The cashcash Core Developers</translation>
+        <source>Copyright (C) 2015-%i The CashCash Core Developers</source>
+        <translation>Autorska prava (C) 2015-%i The CashCash Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5977,8 +5977,8 @@ Pokrenite 'sapling-fetch-params' ili '.util/fetch-params.sh' te ponovno pokrenit
         <translation>Greška pri učitavanju %s: Novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading %s: Wallet requires newer version of cashcash Core</source>
-        <translation>Pogreška pri učitavanju %s: Novčanik zahtijeva noviju verziju cashcash Core</translation>
+        <source>Error loading %s: Wallet requires newer version of CashCash Core</source>
+        <translation>Pogreška pri učitavanju %s: Novčanik zahtijeva noviju verziju CashCash Core</translation>
     </message>
     <message>
         <source>Error loading %s
@@ -6179,8 +6179,8 @@ Pokrenite 'sapling-fetch-params' ili '.util/fetch-params.sh' te ponovno pokrenit
         <translation>Najmanji dozvoljeni iznos (u PIV) kroz GUI RPC za prag dijeljenja stake-a (default: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, cashcash Core neće raditi ispravno.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, CashCash Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect/-noconnect)</source>
@@ -6533,8 +6533,8 @@ Pokrenite 'sapling-fetch-params' ili '.util/fetch-params.sh' te ponovno pokrenit
         <translation>Provjera novčanika...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart cashcash Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite cashcash Core</translation>
+        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite CashCash Core</translation>
     </message>
     <message>
         <source>Wallet options:</source>

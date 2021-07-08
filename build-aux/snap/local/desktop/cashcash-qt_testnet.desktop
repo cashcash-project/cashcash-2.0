@@ -2,8 +2,8 @@
 
 [Desktop Entry]
 Encoding=UTF-8
-Name=cashcash Core
-Comment=cashcash Core QT test network
+Name=CashCash Core
+Comment=CashCash Core QT test network
 GenericName=cashcash Digital Currency QT client testnet network
 Exec=cashcash-core.qt-testnet %u
 Terminal=false

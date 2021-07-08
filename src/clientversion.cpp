@@ -13,7 +13,7 @@
  * for both cashcashd and cashcash-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("cashcash Core");
+const std::string CLIENT_NAME("CashCash Core");
 
 /**
  * Client version number

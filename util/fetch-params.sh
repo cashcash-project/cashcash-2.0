@@ -13,7 +13,7 @@ if [ -n "${1:-}" ]; then
     PARAMS_DIR="$1"
 else
     if [[ "$OSTYPE" == "darwin"* ]]; then
-        PARAMS_DIR="$HOME/Library/Application Support/cashcashParams"
+        PARAMS_DIR="$HOME/Library/Application Support/cashcash"
     else
         PARAMS_DIR="$HOME/.cashcash-params"
     fi

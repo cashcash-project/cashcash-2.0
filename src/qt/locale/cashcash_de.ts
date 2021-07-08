@@ -1131,16 +1131,16 @@ Das Staking wird automatisch gestartet, sobald die Wallet genügend Bestätigung
         <translation>Version</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-Bit)</translation>
     </message>
     <message>
-        <source>About cashcash Core</source>
-        <translation>Über cashcash Core</translation>
+        <source>About CashCash Core</source>
+        <translation>Über CashCash Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1194,16 +1194,16 @@ Das Staking wird automatisch gestartet, sobald die Wallet genügend Bestätigung
         <translation>Willkommen</translation>
     </message>
     <message>
-        <source>Welcome to cashcash Core.</source>
-        <translation>Willkommen zu cashcash Core.</translation>
+        <source>Welcome to CashCash Core.</source>
+        <translation>Willkommen zu CashCash Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where cashcash Core will store its data.</source>
-        <translation>Da dies das erste Mal ist, dass Sie cashcash Core starten, legen Sie jetzt bitte fest, an welchem Ort die Daten gespeichert werden sollen.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <translation>Da dies das erste Mal ist, dass Sie CashCash Core starten, legen Sie jetzt bitte fest, an welchem Ort die Daten gespeichert werden sollen.</translation>
     </message>
     <message>
-        <source>cashcash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>cashcash Core wird die Blockchain laden und lokal speichern. Dafür sind mindestens %1GB freier Speicherplatz erforderlich. Der Speicherbedarf wird mit der Zeit anwachsen. Die Wallet wird ebenfalls in diesem Verzeichnis gespeichert.</translation>
+        <source>CashCash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash Core wird die Blockchain laden und lokal speichern. Dafür sind mindestens %1GB freier Speicherplatz erforderlich. Der Speicherbedarf wird mit der Zeit anwachsen. Die Wallet wird ebenfalls in diesem Verzeichnis gespeichert.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1222,8 +1222,8 @@ Das Staking wird automatisch gestartet, sobald die Wallet genügend Bestätigung
         <translation>OK</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2049,8 +2049,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
 <context>
     <name>cashcashGUI</name>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2077,8 +2077,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations</transl
         <translation>Anwendung beenden</translation>
     </message>
     <message>
-        <source>cashcash Core client</source>
-        <translation>cashcash Core Client</translation>
+        <source>CashCash Core client</source>
+        <translation>CashCash Core Client</translation>
     </message>
     <message>
         <source>Alert!</source>
@@ -2290,8 +2290,8 @@ Adresse: %4
         <translation>Ein fataler Fehler ist aufgetreten. cashcash kann nicht länger sicher fortfahren und wird geschlossen</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -4808,8 +4808,8 @@ Sind Sie sicher?</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>cashcash Core is shutting down...</source>
-        <translation>cashcash Core wird beendet...</translation>
+        <source>CashCash Core is shutting down...</source>
+        <translation>CashCash Core wird beendet...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4838,8 +4838,8 @@ Sind Sie sicher?</translation>
         <translation>Lade...</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
 </context>
 <context>
@@ -5456,8 +5456,8 @@ Wählen Sie weniger Eingänge über coin control aus.</translation>
     </message>
     <message>
         <source>Welcome to
-cashcash Core Wallet</source>
-        <translation>Willkommen beim cashcash Core Wallet</translation>
+CashCash Core Wallet</source>
+        <translation>Willkommen beim CashCash Core Wallet</translation>
     </message>
     <message>
         <source>cashcash is the world’s most innovative Proof of Stake blockchain based technology. Developed by a team of highly experienced developers and cryptographers.</source>
@@ -5639,8 +5639,8 @@ cashcash Core Wallet</source>
         <translation>Gesamtlänge des Netzwerkversionsstring (%i) überschreitet die Länge (%i). Reduzieren Sie die Zahl oder die Größe des Dokuments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. cashcash Core is probably already running.</source>
-        <translation>Fehler: Port %s ist bereits belegt! Läuft bereits eine andere cashcash Core Wallet ?</translation>
+        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <translation>Fehler: Port %s ist bereits belegt! Läuft bereits eine andere CashCash Core Wallet ?</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5655,8 +5655,8 @@ cashcash Core Wallet</source>
         <translation>Warnung: -paytxfee ist sehr hoch eingestellt! Diese Transaktionsgebühr werden Ihnen abgebucht, falls Sie die Transaktion überweisen.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Warnung: Bitte stellen Sie sicher, das vom Computer verwendete Zeit und Datumangaben korrekt sind! Wenn ihr System falsche Zeitangaben nutzt, wird cashcash Core nicht korrekt funktionieren.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Warnung: Bitte stellen Sie sicher, das vom Computer verwendete Zeit und Datumangaben korrekt sind! Wenn ihr System falsche Zeitangaben nutzt, wird CashCash Core nicht korrekt funktionieren.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5727,8 +5727,8 @@ cashcash Core Wallet</source>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The cashcash Core Developers</source>
-        <translation>Copyright (C) 2015-%i The cashcash Core Developers</translation>
+        <source>Copyright (C) 2015-%i The CashCash Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CashCash Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5975,8 +5975,8 @@ Bitte führen Sie 'sapling-fetch-params' oder './util/fetch-params.sh' aus und d
         <translation>Fehler beim Laden %s: Wallet beschädigt</translation>
     </message>
     <message>
-        <source>Error loading %s: Wallet requires newer version of cashcash Core</source>
-        <translation>Fehler beim Laden %s: Neuere cashcash Core Version benötigt</translation>
+        <source>Error loading %s: Wallet requires newer version of CashCash Core</source>
+        <translation>Fehler beim Laden %s: Neuere CashCash Core Version benötigt</translation>
     </message>
     <message>
         <source>Error loading %s
@@ -6191,8 +6191,8 @@ Akzeptiere keine Transaktion, deren vorherige Größe mit &lt;n&gt; im Mempool �
         <translation>Minimaler positiver Betrag (in PIV), der von GUI und RPC für den Stake split Schwellenwert zugelassen wird (Standard: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Bitte stellen Sie sicher, das vom Computer verwendete Zeit und Datumangaben korrekt sind! Wenn ihr System falsche Zeitangaben nutzt, wird cashcash Core nicht korrekt funktionieren.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Bitte stellen Sie sicher, das vom Computer verwendete Zeit und Datumangaben korrekt sind! Wenn ihr System falsche Zeitangaben nutzt, wird CashCash Core nicht korrekt funktionieren.</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect/-noconnect)</source>
@@ -6580,8 +6580,8 @@ Der Schwellenwert darf nicht kleiner sein als %s</translation>
         <translation>Verifiziere Wallet...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart cashcash Core to complete</source>
-        <translation>Wallet musste neu geschrieben werden: Bitte cashcash Core neu starten</translation>
+        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <translation>Wallet musste neu geschrieben werden: Bitte CashCash Core neu starten</translation>
     </message>
     <message>
         <source>Wallet options:</source>

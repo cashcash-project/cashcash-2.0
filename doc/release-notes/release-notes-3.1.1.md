@@ -1,4 +1,4 @@
-cashcash Core version *3.1.1* is now available from:  <https://github.com/cashcash-project/cashcash/releases>
+CashCash Core version *3.1.1* is now available from:  <https://github.com/cashcash-project/cashcash/releases>
 
 This is a new minor version release, including various bug fixes and performance improvements, as well as updated translations.
 
@@ -7,7 +7,7 @@ Please report bugs using the issue tracker at github: <https://github.com/cashca
 Non-Mandatory Update
 ==============
 
-cashcash Core v3.1.1 is a non-mandatory update to address bugs and introduce minor enhancements that do not require a network change.
+CashCash Core v3.1.1 is a non-mandatory update to address bugs and introduce minor enhancements that do not require a network change.
 
 How to Upgrade
 ==============
@@ -18,7 +18,7 @@ If you are running an older version, shut it down. Wait until it has completely 
 Compatibility
 ==============
 
-cashcash Core is extensively tested on multiple operating systems using
+CashCash Core is extensively tested on multiple operating systems using
 the Linux kernel, macOS 10.8+, and Windows Vista and later.
 
 Microsoft ended support for Windows XP on [April 8th, 2014](https://www.microsoft.com/en-us/WindowsForBusiness/end-of-xp-support),
@@ -26,7 +26,7 @@ No attempt is made to prevent installing or running the software on Windows XP, 
 can still do so at your own risk but be aware that there are known instabilities and issues.
 Please do not report issues about Windows XP to the issue tracker.
 
-cashcash Core should also work on most other Unix-like systems but is not
+CashCash Core should also work on most other Unix-like systems but is not
 frequently tested on them.
 
 ### :exclamation::exclamation::exclamation: MacOS 10.13 High Sierra :exclamation::exclamation::exclamation:
@@ -93,7 +93,7 @@ Secondary improvement area is in ConnectBlock() when multiple zerocoin transacti
 
 ### Resolution of excessive peer banning
 
-It was found that following a forced closure of the cashcash core wallet (ungraceful), a situation could arise that left partial/incomplete data in the disk cache. This caused the client to fail a basic sanity test and ban any peer which was sending the (complete) data. This, in turn, was causing the wallet to become stuck. This issue has been resolved client side by guarding against this partial/incomplete data in the disk cache.
+It was found that following a forced closure of the CashCash Core wallet (ungraceful), a situation could arise that left partial/incomplete data in the disk cache. This caused the client to fail a basic sanity test and ban any peer which was sending the (complete) data. This, in turn, was causing the wallet to become stuck. This issue has been resolved client side by guarding against this partial/incomplete data in the disk cache.
 
 *3.1.1* Change log
 --------------

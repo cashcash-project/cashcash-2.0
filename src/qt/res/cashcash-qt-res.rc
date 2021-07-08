@@ -20,13 +20,13 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "cashcash"
-            VALUE "FileDescription",    "cashcash Core (OSS GUI client for cashcash)"
+            VALUE "FileDescription",    "CashCash Core (OSS GUI client for cashcash)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "cashcash-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "cashcash-qt.exe"
-            VALUE "ProductName",        "cashcash Core"
+            VALUE "ProductName",        "CashCash Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

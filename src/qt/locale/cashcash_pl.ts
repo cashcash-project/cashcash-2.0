@@ -1129,16 +1129,16 @@ Rozpocznie się automatycznie, gdy portfel będzie miał wystarczającą liczbę
         <translation>Wersja</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About cashcash Core</source>
-        <translation>O cashcash Core</translation>
+        <source>About CashCash Core</source>
+        <translation>O CashCash Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1192,16 +1192,16 @@ Rozpocznie się automatycznie, gdy portfel będzie miał wystarczającą liczbę
         <translation>Zapraszamy</translation>
     </message>
     <message>
-        <source>Welcome to cashcash Core.</source>
-        <translation>Zapraszamy do cashcash Core</translation>
+        <source>Welcome to CashCash Core.</source>
+        <translation>Zapraszamy do CashCash Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where cashcash Core will store its data.</source>
-        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym cashcash Core będzie przechowywać swoje dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where CashCash Core will store its data.</source>
+        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym CashCash Core będzie przechowywać swoje dane.</translation>
     </message>
     <message>
-        <source>cashcash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>cashcash Core pobierze i zapisze kopię łańcucha bloków cashcash. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
+        <source>CashCash Core will download and store a copy of the cashcash block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CashCash Core pobierze i zapisze kopię łańcucha bloków cashcash. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1220,8 +1220,8 @@ Rozpocznie się automatycznie, gdy portfel będzie miał wystarczającą liczbę
         <translation>OK</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2034,8 +2034,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations </trans
 <context>
     <name>cashcashGUI</name>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -2062,8 +2062,8 @@ https://www.transifex.com/cashcash-project/cashcash-project-translations </trans
         <translation>Wyjdź z aplikacji</translation>
     </message>
     <message>
-        <source>cashcash Core client</source>
-        <translation>cashcash Core klient</translation>
+        <source>CashCash Core client</source>
+        <translation>CashCash Core klient</translation>
     </message>
     <message>
         <source>Alert!</source>
@@ -2275,8 +2275,8 @@ Adres: %4
         <translation>Wystąpił błąd krytyczny. cashcash nie może już działać bezpiecznie i zakończy działanie.</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -4606,8 +4606,8 @@ Jesteś pewny?
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>cashcash Core is shutting down...</source>
-        <translation>cashcash Core się wyłącza ...</translation>
+        <source>CashCash Core is shutting down...</source>
+        <translation>CashCash Core się wyłącza ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4636,8 +4636,8 @@ Jesteś pewny?
         <translation>Ładowanie…</translation>
     </message>
     <message>
-        <source>cashcash Core</source>
-        <translation>cashcash Core</translation>
+        <source>CashCash Core</source>
+        <translation>CashCash Core</translation>
     </message>
 </context>
 <context>
@@ -5152,9 +5152,9 @@ Wybierz mniej nominałów kontrolą monet.</translation>
     </message>
     <message>
         <source>Welcome to
-cashcash Core Wallet</source>
+CashCash Core Wallet</source>
         <translation>Witamy
-Portfel cashcash Core</translation>
+Portfel CashCash Core</translation>
     </message>
     <message>
         <source>cashcash is the world’s most innovative Proof of Stake blockchain based technology. Developed by a team of highly experienced developers and cryptographers.</source>
@@ -5332,8 +5332,8 @@ Portfel cashcash Core</translation>
         <translation>Całkowita długość string wersji sieciowej (%i) przekracza maksymalną długość (%i). Zmniejsz liczbę lub rozmiar uacomments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. cashcash Core is probably already running.</source>
-        <translation>Nie można podłączyć %s na tym komputerze. cashcash Core prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. CashCash Core is probably already running.</source>
+        <translation>Nie można podłączyć %s na tym komputerze. CashCash Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5348,8 +5348,8 @@ Portfel cashcash Core</translation>
         <translation>Ostrzeżenie: -paytxfee jest ustawione bardzo wysoko! Jest to opłata transakcyjna, którą zapłacisz, jeśli wyślesz transakcję.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Ostrzeżenie: sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, cashcash Core nie będzie działać poprawnie.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Ostrzeżenie: sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, CashCash Core nie będzie działać poprawnie.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5420,8 +5420,8 @@ Portfel cashcash Core</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The cashcash Core Developers</source>
-        <translation>Copyright (C) 2015-%i The cashcash Core Developers</translation>
+        <source>Copyright (C) 2015-%i The CashCash Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CashCash Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5766,8 +5766,8 @@ Portfel cashcash Core</translation>
         <translation>Przygotowanie do ponownej synchronizacji ...</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong cashcash Core will not work properly.</source>
-        <translation>Sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, cashcash Core nie będzie działać poprawnie.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong CashCash Core will not work properly.</source>
+        <translation>Sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, CashCash Core nie będzie działać poprawnie.</translation>
     </message>
     <message>
         <source>Specify location of debug log file: this can be an absolute path or a path relative to the data directory (default: %s)</source>
@@ -6058,8 +6058,8 @@ Portfel cashcash Core</translation>
         <translation>Weryfikuję portfel ...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart cashcash Core to complete</source>
-        <translation>Portfel musiał zostać przepisany: zrestartuj cashcash Core, aby zakończyć</translation>
+        <source>Wallet needed to be rewritten: restart CashCash Core to complete</source>
+        <translation>Portfel musiał zostać przepisany: zrestartuj CashCash Core, aby zakończyć</translation>
     </message>
     <message>
         <source>Wallet options:</source>

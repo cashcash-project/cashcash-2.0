@@ -1,7 +1,7 @@
 Translation Strings Policy
 ===========================
 
-This document provides guidelines for internationalization of the cashcash Core software.
+This document provides guidelines for internationalization of the CashCash Core software.
 
 How to translate?
 ------------------

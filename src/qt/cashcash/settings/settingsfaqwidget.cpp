@@ -112,7 +112,7 @@ SettingsFaqWidget::SettingsFaqWidget(cashcashGUI *parent) :
 
     QString masternodeContent = formatFAQContent(
         formatFAQParagraph(
-            tr("A masternode is a computer running a full node cashcash core wallet with a "
+            tr("A masternode is a computer running a full node CashCash Core wallet with a "
                "requirement of 10,000 PIV secured collateral to provide extra services "
                "to the network and in return, receive a portion of the block reward "
                "regularly. These services include:") +

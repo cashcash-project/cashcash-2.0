@@ -1,4 +1,4 @@
-cashcash Core integration/staging repository
+CashCash Core integration/staging repository
 =====================================
 
 [![master Actions Status](https://github.com/cashcash-Project/cashcash/workflows/CI%20Actions%20for%20cashcash/badge.svg)](https://github.com/cashcash-Project/cashcash/actions)
@@ -22,11 +22,11 @@ cashcash is an open source community-driven cryptocurrency, focused on five main
 A lot more information and specs at [cashcash.digital](https://www.cashcash.digital/). Join the community at [cashcash Discord](https://discordapp.com/invite/jzqVsJd).
 
 ## License
-cashcash Core is released under the terms of the MIT license. See [COPYING](https://github.com/cashcash-Project/cashcash/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
+CashCash Core is released under the terms of the MIT license. See [COPYING](https://github.com/cashcash-Project/cashcash/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
 
 ## Development Process
 
-The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/cashcash-Project/cashcash/tags) are created regularly from release branches to indicate new official, stable release versions of cashcash Core.
+The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/cashcash-Project/cashcash/tags) are created regularly from release branches to indicate new official, stable release versions of CashCash Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](https://github.com/cashcash-Project/cashcash/blob/master/CONTRIBUTING.md) and useful hints for developers can be found in [doc/developer-notes.md](https://github.com/cashcash-Project/cashcash/blob/master/doc/developer-notes.md).
 
@@ -48,7 +48,7 @@ Changes should be tested by somebody other than the developer who wrote the code
 
 ## Translations
 
-Changes to translations as well as new translations can be submitted to cashcash Core's Transifex page.
+Changes to translations as well as new translations can be submitted to CashCash Core's Transifex page.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the [translation process](https://github.com/cashcash-Project/cashcash/blob/master/doc/translation_process.md) for details on how this works.
 
